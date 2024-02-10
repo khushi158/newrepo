@@ -1,2 +1,2 @@
 # newrepo
-This is my newrepo repository.
+This is my new one repository.
